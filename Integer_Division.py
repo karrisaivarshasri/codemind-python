@@ -1,4 +1,2 @@
-x = int(input())
-result = x // 10
-print( result)
-
+a=int(input())
+print(a // 10)
